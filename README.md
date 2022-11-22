@@ -5,9 +5,9 @@ Tg channel :  t.me/computer_vision_uzbek
 
 Install opencv-python  using this commands 👇👇👇
 
-py -m venv env             # creating virtual enviroment using venv
-env\scripts\activate       # Activating Virtual enviroment
-pip install opencv-python  # installing opencv-python library
+py -m venv env                                                             # creating virtual enviroment using venv
+env\scripts\activate                                                       # Activating Virtual enviroment
+pip install opencv-python                                                  # installing opencv-python library
 
 
 
